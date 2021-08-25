@@ -1,2 +1,10 @@
-# Ensemble RNNs for ECG signal classification
- An electrocardiogram (ECG) is a medical assessment tool used to observe heart functionality based on its continuous electrical activity. Each heart beat is stimulated by an electrical impulse that causes the muscle to contract and pump blood through the body. When this impulse is recorded over time, it produces an ECG pattern, which can be used to detect normal or irregular heart activity. This project aims to evaluate the effectiveness of wavelets for extracting multi-scale features in sequence based classification. Recurrent Neural Networks (RNNs) are trained to classify ECG heart beats 20 2018 within a time series ECG signal. Experiments using (one or more) benchmark datasets will be used to test the effectiveness of combining models drawn from various time resolutions. This work could eventually be used in Computer Aided Diagnosis, where the interpretation of ECG signals is done electronically and potentially more objective than manual interpretation.
+
+1.	Install Anaconda with python 3.8
+2.	On Anaconda console(cmd) type:
+a.	pip install tensorflow
+b.	pip install keras
+c.	pip install focal-loss
+d.	pip install pywt
+3.	download dataset (link in dataset file)
+4.	unzip dataset and put the unzipped version in the same folder as the software
+5.	open and run the software using Anaconda Jupyter notebook 
