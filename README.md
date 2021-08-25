@@ -1,7 +1,7 @@
 
 1.	Install Anaconda with python 3.8
 2.	On Anaconda console(cmd) type:
-    a.	pip install tensorflow
+    a.	pip install tensorflow \n
     b.	pip install keras
     c.	pip install focal-loss
     d.	pip install pywt
