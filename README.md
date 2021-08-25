@@ -5,7 +5,7 @@
     b.	pip install keras
     c.	pip install focal-loss
     d.	pip install pywt
-3.	download dataset (link in dataset file)
+3.	download dataset (link below)
 4.	unzip dataset and put the unzipped version in the same folder as the software
 5.	open and run the software using Anaconda Jupyter notebook 
 6.	Link to dataset( https://physionet.org/content/challenge-2017/1.0.0/)
