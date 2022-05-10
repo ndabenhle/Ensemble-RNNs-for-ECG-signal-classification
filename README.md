@@ -1,4 +1,4 @@
-
+## How to Run the algorithm
 1.	Install Anaconda with python 3.8
 2.	On Anaconda console(cmd) type:
     a.	pip install tensorflow 
